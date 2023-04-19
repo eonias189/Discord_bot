@@ -9,7 +9,7 @@ from data import db_session
 from data.users import User
 from tools import get_question
 
-TOKEN = "MTA5ODIyMTkwMDg0MjQwNTkwOA.GmsZQ3.WTgn9LZ7PP35Q9yuHiwnL7BhaB3ckWBs3RfYYE"
+TOKEN = "Ага Discord не даёт выложить токен на гитхабе"
 
 logger = logging.getLogger('discord')
 logger.setLevel(logging.DEBUG)
